@@ -27,7 +27,7 @@ Só joga na máquina e deixar instalar
 # SPEEDSSH PR0
 
 ```
-apt-get update -y; apt-get upgrade -y; wget install.speedcell.ga/Pro-ssh; chmod 777 Pro-ssh; ./Pro-ssh
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Rafa4g/plus-main/main/ssh-plus)
 ```
 
 # Acessa Root
