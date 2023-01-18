@@ -140,4 +140,4 @@ sysctl -p -f /etc/sysctl.d/70-disable-ipv6.conf
 
 # - Execulta instalador
 [[ -e Plus ]] && rm Plus
-wget raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PR0/main/script/${arch}/Plus && chmod 777 Plus && ./Plus
+wget raw.githubusercontent.com/Rafa4g/SSH_PRO/main/script/${arch}/Plus && chmod 777 Plus && ./Plus
