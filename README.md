@@ -20,11 +20,11 @@ Só joga na máquina e deixar instalar
 
 # SOLICITE KEY: 
 
-[![Join Telegram Chat](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=Telegram)](https://t.me/srSPEEDiness)
+[![Join Telegram Chat](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=Telegram)](https://t.me/jhona7p)
 
-[![Join WhatsApp Chat](https://img.shields.io/badge/Join-WhatsApp%20Group-bl.svg?logo=WhatsApp)](https://wa.me/5521976102205)
+[![Join WhatsApp Chat](https://img.shields.io/badge/Join-WhatsApp%20Group-bl.svg?logo=WhatsApp)](https://wa.me/5546991062648)
 
-# SPEEDSSH PR0
+# TECNO-SSH PR0
 
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Rafa4g/SSH_PRO/main/ssh-plus)
